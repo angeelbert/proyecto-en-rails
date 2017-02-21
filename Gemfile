@@ -33,7 +33,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'bcrypt', '~> 3.1.7'
 gem 'rubocop', '~> 0.47.1', require: false
 #
-gem 'rubocop-rspec', '~> 1.10.0'
+#gem 'rubocop-rspec', '~> 1.10.0'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
