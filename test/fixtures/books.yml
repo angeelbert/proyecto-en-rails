@@ -2,14 +2,14 @@
 
 one:
   title: MyString
-  type: 
-  resume: MyString
+  genre: MyString
   author: MyString
-  date_publish: 2017-02-21
+  date_publish: 2017-02-22
+  details: MyString
 
 two:
   title: MyString
-  type: 
-  resume: MyString
+  genre: MyString
   author: MyString
-  date_publish: 2017-02-21
+  date_publish: 2017-02-22
+  details: MyString
